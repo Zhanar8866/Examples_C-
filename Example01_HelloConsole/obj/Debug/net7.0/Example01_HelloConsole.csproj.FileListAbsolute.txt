@@ -1,0 +1,15 @@
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 01. C#\Examples\Example01_HelloConsole\bin\Debug\net7.0\Example01_HelloConsole.exe
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 01. C#\Examples\Example01_HelloConsole\bin\Debug\net7.0\Example01_HelloConsole.deps.json
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 01. C#\Examples\Example01_HelloConsole\bin\Debug\net7.0\Example01_HelloConsole.runtimeconfig.json
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 01. C#\Examples\Example01_HelloConsole\bin\Debug\net7.0\Example01_HelloConsole.dll
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 01. C#\Examples\Example01_HelloConsole\bin\Debug\net7.0\Example01_HelloConsole.pdb
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 01. C#\Examples\Example01_HelloConsole\obj\Debug\net7.0\Example01_HelloConsole.csproj.AssemblyReference.cache
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 01. C#\Examples\Example01_HelloConsole\obj\Debug\net7.0\Example01_HelloConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 01. C#\Examples\Example01_HelloConsole\obj\Debug\net7.0\Example01_HelloConsole.AssemblyInfoInputs.cache
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 01. C#\Examples\Example01_HelloConsole\obj\Debug\net7.0\Example01_HelloConsole.AssemblyInfo.cs
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 01. C#\Examples\Example01_HelloConsole\obj\Debug\net7.0\Example01_HelloConsole.csproj.CoreCompileInputs.cache
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 01. C#\Examples\Example01_HelloConsole\obj\Debug\net7.0\Example01_HelloConsole.dll
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 01. C#\Examples\Example01_HelloConsole\obj\Debug\net7.0\refint\Example01_HelloConsole.dll
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 01. C#\Examples\Example01_HelloConsole\obj\Debug\net7.0\Example01_HelloConsole.pdb
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 01. C#\Examples\Example01_HelloConsole\obj\Debug\net7.0\Example01_HelloConsole.genruntimeconfig.cache
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 01. C#\Examples\Example01_HelloConsole\obj\Debug\net7.0\ref\Example01_HelloConsole.dll
